@@ -1,0 +1,6 @@
+outs:
+- md5: 27f31a1a37790512e369c117a031a9ff.dir
+  size: 1425
+  nfiles: 1
+  hash: md5
+  path: prc
