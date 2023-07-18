@@ -1,0 +1,6 @@
+outs:
+- md5: 509e08ecc994483588368f7452612d86.dir
+  size: 711697
+  nfiles: 2
+  hash: md5
+  path: rotated_numbers
