@@ -1,0 +1,6 @@
+outs:
+- md5: 608b950d74d4f3ad4c44cf26c7e2ca8c.dir
+  size: 712007
+  nfiles: 2
+  hash: md5
+  path: numbers
